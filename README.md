@@ -63,4 +63,13 @@ Saved model can be used for prediction purpose. To predict labels for all images
 ./src/To_predict.py
 ```
  *Predicted* labels are saved in ``` Labels_predicted_by_trained_model.csv ```
+ 
+ ## Results
+ 
+ Results are shown below:
+ 
+ <img src="image/final_metrics.JPG"  >
+ 
+ 
+ 
 
