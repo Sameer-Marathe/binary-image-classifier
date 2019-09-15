@@ -10,7 +10,7 @@ Data for training the binary classifier is stored in:
 There are two numpy files named ``` class_a.npy ``` and ``` class_b.npy ```.
 These numpy arrays store image data to train the classifier. 
 
------------------------------------
+
 
 ## Visualization
 
@@ -26,7 +26,7 @@ Class A                                     |  Class B                          
 <img src="image/Class_A.png"  >             |  <img src="image/Class_B.png"  >            | <img src="image/test.png"  >
 
 
--------------------------------------------------------------------
+
 ## Dependencies
 
 This code is implemented in [Keras](http://keras.io/) using [Tensorflow API r1.0](https://www.tensorflow.org/api_docs/) backend. 
