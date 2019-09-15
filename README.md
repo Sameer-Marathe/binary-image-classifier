@@ -32,7 +32,7 @@ Class A                                     |  Class B                          
 This code is implemented in [Keras](http://keras.io/) using [Tensorflow API r1.0](https://www.tensorflow.org/api_docs/) backend. 
 You can follow the [online instructions](https://www.tensorflow.org/install/) to install Tensorflow 1.0.
 Other dependencies like [numpy](http://www.numpy.org/), [scikit-image](http://scikit-image.org/) and
-[matplotlib](https://matplotlib.org/) can be install by [pip](https://pypi.python.org/pypi/pip).
+[matplotlib](https://matplotlib.org/) can be installed by [pip](https://pypi.python.org/pypi/pip).
 
 
 
