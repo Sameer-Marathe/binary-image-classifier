@@ -8,13 +8,13 @@ Data for training the binary classifier is stored in:
 ./data/train
 ```
 There are two numpy files named ``` class_a.npy ``` and ``` class_b.npy ```.
-These numpy arrays stores image data to train the classifier. 
+These numpy arrays store image data to train the classifier. 
 
 -----------------------------------
 
 ## Visualization
 
-As data is in the numpy array we need a simple script to visualize it. To "see" images in each numpy array run the script
+As data is in the numpy array we need a simple script to visualize it. To *see* images in each numpy array run the script
 ```bash
 ./src/Visualize.py
 ```
